@@ -33,16 +33,6 @@ Independently developed a browser-based coding game with Claude Code assistance.
 
 [Website — full release in preparation](https://codeahoy.app)
 
-### ☁️ Cloud-Native Webapp
-**Academic project · Oct. 2025**
-
-Built a **Java/Spring Boot product-management service** backed by PostgreSQL and S3, with resource ownership checks and AWS security controls.
-
-- Provisioned reusable AWS infrastructure with **Terraform**, distributing application traffic across **3 availability zones** through load balancing and Auto Scaling.
-- Protected AWS resources and credentials with **IAM roles, KMS, and Secrets Manager**.
-- Built **GitHub Actions and Packer** pipelines for cross-account AMI deployment and zero-downtime rolling EC2 instance refresh.
-- Implemented **SNS-triggered Java Lambda email verification** and CloudWatch metrics for API, database, and S3 operations.
-
 ## Let's connect
 
 [Email](mailto:lee.jiay@northeastern.edu) · [LinkedIn](https://www.linkedin.com/in/jiayelee) · [GitHub](https://github.com/Jiaye2001)
